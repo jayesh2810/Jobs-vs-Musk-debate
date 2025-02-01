@@ -6,7 +6,7 @@ An AI-powered debate platform where AI versions of **Steve Jobs** and **Elon Mus
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repository.git
+   git clone https://github.com/jobs-vs-musk-debate.git
    cd jobs-vs-musk-debate
 
 2. Install dependencies:
